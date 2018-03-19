@@ -1,6 +1,6 @@
 # caffè! to influx connector
 
-[**caffè!**](http://projectcaffe.bplaced.net/) is a firmware running microcontrollers, offering support for dual PID-control, pressure profiling and scripted programs for espresso machines (see [features](http://projectcaffe.bplaced.net/features_caffe.html)).
+[**caffè!**](http://projectcaffe.bplaced.net/) is a firmware running on microcontrollers, offering support for dual PID-control, pressure profiling and scripted programs for espresso machines (see [features](http://projectcaffe.bplaced.net/features_caffe.html)).
 This turns your espresso machine into a beast :)
 
 Running on an [ito](https://www.kaffee-netz.de/threads/ito.102112/) it connects to wifi networks via the built in  ESP8266 module and broadcasts its readings via telnet (after requesting it with telnet command _MCr\r\n_).
